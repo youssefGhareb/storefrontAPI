@@ -1,0 +1,2 @@
+ALTER TABLE orders 
+ADD CONSTRAINT orders_fk;

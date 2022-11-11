@@ -1,0 +1,11 @@
+# Ignore files related to API and database keys
+.env
+
+# Ignore node_modules folder
+node_modules
+
+# Ignore dist folder
+dist
+
+# Ignore package-lock
+package-lock.json
